@@ -1,5 +1,5 @@
 @echo off
-title DDoS-master Setup
+title DDoZ-em Setup
 echo #===========================[Setup]===========================#
 echo 1. Download 'Python 3' (if not, or version is lower than '3.8')
 echo.
