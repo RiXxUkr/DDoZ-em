@@ -1,4 +1,4 @@
-#DDoS-master
+#DDoZ-em
 
 Українська мова
 ├─►Встановлення
@@ -9,7 +9,8 @@
 │   └─►Відкрити термінал
 │     └─►Ввести команди
 │       ├─►sudo apt-get install git
-│       ├─►cd DDoS-master/
+│       ├─►git clone https://github.com/RiXxUkr/DDoZ-em.git
+│       ├─►cd DDoZ-em/
 │       └─►bash setup.sh
 ├─►Вимоги (встановлюються автоматично при встановленні, на пункт вище)
 │ └─►python 3
